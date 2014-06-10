@@ -10,12 +10,12 @@ Summary(pl.UTF-8):	K Desktop Environment - gry
 Summary(pt_BR.UTF-8):	K Desktop Environment - Jogos
 Summary(zh_CN.UTF-8):	KDE游戏
 Name:		kde4-libkdegames
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	LGPL
 Group:		X11/Libraries
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	602b31681f2eb856cd231a7c36060e33
+# Source0-md5:	539997ae2aa1e10610eaa8a963170e8a
 BuildRequires:	OpenAL-devel
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	automoc4 >= 0.9.88
